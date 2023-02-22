@@ -1,0 +1,22 @@
+ .u-section-1 {
+  min-height: 158px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin: 1px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 198px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.powerbi {
+  height:calc(100vh - 4px);
+  width:calc(100vw - 4px);
+  box-sizing: border-box;
+}
